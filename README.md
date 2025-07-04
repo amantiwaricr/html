@@ -1,1 +1,1 @@
-Preview Link: https://amantiwaricr.github.io/aman/
+preview link: https://amantiwaricr.github.io/html/
